@@ -12,6 +12,6 @@ A weather website created using Node JS , Express , Boilerplate templates, Packa
 - [CSS3](http://www.css3.info/)
 
 #### Contributed By:
-- [Amish Bharti](https://github.com/amish1999)  `:heartpulse:` 
+- [Amish Bharti](https://github.com/amish1999) 💗
 
 
